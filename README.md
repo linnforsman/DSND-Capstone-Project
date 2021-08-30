@@ -1,5 +1,5 @@
 # Sparkify - Predicting Customer Churn with PySpark
-
+Capstone project in Udacity's Data Scientist Nanodegree Program
 ## Installation
 
 ## Project Motivation
