@@ -13,6 +13,9 @@ In this project, we use Spark to predict customer churn using user activity data
 - `mini_sparkify_event_data.json`: subset of user activity data.
 
 ## Results
+The results are communicated and presented in this [blog post](https://linnforsman.medium.com/predicting-music-streaming-service-churn-with-pyspark-78825dfa491c).
+
+Note that the scores are reasonable, but not perfect. The model is not perfect, but it is able to identify users who are most likely to churn. One limitation is that I was not able to run the model for the entire dataset due to my AWS tier.
 
 ## Licensing, Authors Acknowledgements
 Thanks to [Udacity](https://www.udacity.com/) for providing the course material and giving a challenging project.
