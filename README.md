@@ -10,7 +10,7 @@ In this project, we use Spark to predict customer churn using user activity data
 
 ## File Descriptions
 - `Sparkify.ipynb`: exploratory data analysis, data preprocessing, and pilot development of machine learning model on local machine using data subset from [Udacity]().
-- `mini_sparkify_event_data.json`: subset of user activity data.
+- `mini_sparkify_event_data.json`: subset of user activity data. (not uploaded due to data quota limit)
 
 ## Results
 The results are communicated and presented in this [blog post](https://linnforsman.medium.com/predicting-music-streaming-service-churn-with-pyspark-78825dfa491c).
